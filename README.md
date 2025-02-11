@@ -25,4 +25,4 @@ Stworzenie prostej aplikacji desktopowej w C#, która umożliwia zarządzanie li
 ## Instalacja
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/twoj-user/twoj-repo.git
+   [git clone https://github.com/twoj-user/twoj-repo.git](https://github.com/Luceq9/-employee-list-C-.git)
